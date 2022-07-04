@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @igd93
 - 👀 I’m interested in Machine Learning, Data Science, Python
 - 🌱 I’m currently learning Kubernets, Machine Learning, MLOps
-- 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me: isdrozhilkin@gmail.com
 
 <!---
