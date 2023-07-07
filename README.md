@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igd93
-- 👀 I’m interested in Machine Learning, Data Science, Python
-- 🌱 I’m currently learning Kubernets, Machine Learning, MLOps
+- 👀 I’m interested in Machine Learning, Python, Fullstack (as of recent)
+- 🌱 I’m currently learning Docker, NoSQL, JavaScript, React
 - 📫 How to reach me: isdrozhilkin@gmail.com
 
 <!---
