@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Igor. 
 #### Software Engineer | Data Scientist | Machine Learning Engineer
+
+![GitHub Banner](banner.png)
 I'm a driven software engineer starting my career, interested in backend development, front end, and machine learning.
 Let's connect and discuss how we can create impactful solutions together.
 
