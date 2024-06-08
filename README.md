@@ -7,13 +7,13 @@ Let's connect and discuss how we can create impactful solutions together.
 
 ### Skills: 
 - **Programming Languages**
-  - `Java`, `Python`, `JavaScript`
+  - `Java`  `Python`  `JavaScript`
 - **Web Development**
-  - `HTML`, `CSS`, `React`, `Node.js`
+  - `HTML`  `CSS`  `React`  `Node.js`
 - **Frameworks and Libraries**
-  - `Spring`, `NumPy`, `SciPy`, `Scikit-learn`, `Pandas`,  `Tensorflow`, `PyTorch`
+  - `Spring`  `NumPy`  `SciPy`  `Scikit-learn`  `Pandas`  `Tensorflow`  `PyTorch`
 - **DevOps**
-  - `Docker`, `Git`
+  - `Docker`  `Git`
 - **Cloud Computing**
   - `3x AWS Certified`
     - `Certified Cloud Practitioner`
