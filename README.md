@@ -22,7 +22,6 @@ Let's connect and discuss how we can create impactful solutions together.
 
 - 🔭 I’m currently exploring Cloud Computing (AWS)
 - 🌱 I’m currently learning React, JavaScript, Flask 
-- 📫 How to reach me: isdrozhilkin@gmail.com 
 - ⚡ Fun fact: I love a good movie and a good book. 
 
 
