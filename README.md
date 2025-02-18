@@ -11,17 +11,19 @@ Let's connect and discuss how we can create impactful solutions together.
 - **Web Development**
   - `HTML`  `CSS`  `React`  `Node.js`
 - **Frameworks and Libraries**
-  - `Spring`  `NumPy`  `SciPy`  `Scikit-learn`  `Pandas`  `Tensorflow`  `PyTorch`
+  - `Spring`  `FastAPI` `NumPy`  `SciPy`  `Scikit-learn`  `Pandas`  `Tensorflow`  `PyTorch`
 - **DevOps**
   - `Docker`  `Git`
 - **Cloud Computing**
-  - `3x AWS Certified`
+  - `5x AWS Certified`
     - `Certified Cloud Practitioner`
     - `Solutions Architect Associate`
     - `Certified Developer Associate`
+    - `Certified Data Engineer Associate`
+    - `Certified Machine Learning Engineer Associate`
 
 - 🔭 I’m currently exploring Cloud Computing (AWS)
-- 🌱 I’m currently learning React, JavaScript, Flask 
+- 🌱 I’m currently learning React, JavaScript, FastAPI
 - ⚡ Fun fact: I love a good movie and a good book. 
 
 
